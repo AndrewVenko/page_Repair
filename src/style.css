@@ -316,7 +316,7 @@ body {
   display: inline-block;
   width: 30px;
   height: 30px;
-  background-image: url(images/Frame.png);
+  background-image: url(../src/images/Frame.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 30px;
